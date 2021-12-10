@@ -1,0 +1,25 @@
+{
+  "short_name": "Merry Christmas",
+  "name": "Christmas tree in css",
+  "icons": [
+    {
+      "src": "hat.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "hat.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "hat.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#252525",
+  "background_color": "#252525"
+}
