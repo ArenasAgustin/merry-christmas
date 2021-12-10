@@ -2,12 +2,16 @@ html,
 body {
   width: 100vw;
   height: 100vh;
-  background-color: #252525;
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
+}
+
+html {
+  background-color: #252525;
 }
 
 h1 {

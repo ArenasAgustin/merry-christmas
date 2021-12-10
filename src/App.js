@@ -1,4 +1,5 @@
 import "./App.scss";
+import Background from "./Background";
 
 function App() {
   const leafArray = [3, 5, 7, 5, 7, 9, 11, 9, 11, 13, 15, 13, 15, 17, 19];
@@ -49,6 +50,8 @@ function App() {
       <div className="txt">
         <h1>Merry Christmas!</h1>
       </div>
+
+      <Background />
     </div>
   );
 }
